@@ -1,0 +1,6 @@
+-Installation Method
+1. On the cloud using docker(AWS, DigitalOcen, Google Cloud, Azure)
+2. Virtual box running ubuntu in VM locally
+3. Docker for windows
+Note: Recommended tp use Jenkins with Docker 
+
